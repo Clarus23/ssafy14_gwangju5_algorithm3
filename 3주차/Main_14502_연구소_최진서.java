@@ -10,7 +10,7 @@
 import java.io.*;
 import java.util.*;
 
-public class Main_14502_최진서 {
+public class Main_14502_연구소_최진서 {
     static int N, M;
     static int[][] map;
     static int[][] temp;
@@ -93,3 +93,4 @@ public class Main_14502_최진서 {
         }
     }
 }
+
