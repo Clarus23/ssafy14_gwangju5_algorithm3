@@ -30,14 +30,14 @@
 1. **백준(BOJ)**  
 `Main_(문제번호)_(이름).(확장자)`
 예시:  
-`Main_1000_gildong.java`  
-`Main_14501_chulsoo.py`
+`Main_1000_성이름.java`  
+`Main_14501_성이름.py`
 
-2. **SWEA**
+2. **SWEA**  
 `Solution_(문제번호)_(이름).(확장자)`
 예시:  
-`Solution_1206_younghee.cpp`  
-`Solution_1249_gildong.java`
+`Solution_1206_성이름.cpp`  
+`Solution_1249_성이름.java`
 
 ---
 
@@ -54,8 +54,8 @@
 - 커밋 메시지는 다음과 같은 규칙을 따릅니다.
 `[플랫폼] 문제번호 - 이름`
 예시:
-- `[BOJ] 1000 - gildong`
-- `[SWEA] 1249 - younghee`
+- `[BOJ] 1000 - 성이름`
+- `[SWEA] 1249 - 성이름`
 
 ---
 
