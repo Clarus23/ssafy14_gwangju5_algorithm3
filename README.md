@@ -10,12 +10,12 @@
 
 | 이름   | 깃허브 ID | 비고 |
 |--------|-----------|------|
-| 정혜원 | @Clarus23 | 팀장 |
-| 최진서 | @Choi-jinseo | 스터디원 |
-| 강산천 | @ksc4305 | 스터디원 |
-| 이주형 | @dlwlsgud629 | 스터디원 |
-| 박민영 | @meanyong | 스터디원 |
-| 이지언 | @cmsk0227-collab | 스터디원 |
+| 정혜원 | [@Clarus23](https://github.com/Clarus23) | 팀장 |
+| 최진서 | [@Choi-jinseo](https://github.com/Choi-jinseo) | 스터디원 |
+| 강산천 | [@ksc4305](https://github.com/ksc4305) | 스터디원 |
+| 이주형 | [@dlwlsgud629](https://github.com/dlwngud629) | 스터디원 |
+| 박민영 | [@meanyong](https://github.com/meanyong) | 스터디원 |
+| 이지언 | [@cmsk0227-collab](https://github.com/cmsk0227-collab) | 스터디원 |
 
 > ✅ 스터디원이 추가되면 위 표에 이름과 깃허브 ID를 업데이트해주세요.
 
