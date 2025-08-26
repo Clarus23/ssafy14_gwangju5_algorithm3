@@ -8,6 +8,7 @@ using namespace std;
 * ## 간선이 입력되면, 그래프를 저장하며, inDegree를 계산.
 * ## 모든 입력이 끝난 후, inDegree가 0인 node들을 queue에 삽입.
 * ## bfs 수행. (inDegree가 0이 아니라면 --inDegree, 0이면 q에 삽입)
+* ## 탐색 종료.
 *
 * # 시간복잡도: O(V+E)
 *
